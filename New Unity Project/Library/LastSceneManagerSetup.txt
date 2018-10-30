@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/lvl1-white-river-run.unity
+  isLoaded: 1
+  isActive: 1
